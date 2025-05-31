@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Usuarios>
+  <Usuario>
+    <Codigo>1</Codigo>
+    <Nome>Admin</Nome>
+    <Login>admin</Login>
+    <TipoUsu>A</TipoUsu>
+    <Senha>±²³´</Senha>
+    <Registro>6741</Registro>
+  </Usuario>
+</Usuarios>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Pessoas>
+  <Pessoa>
+    <Codigo>27766</Codigo>
+    <Nome>CARDIOVALE [TRANSP DE AMBULANCIA]</Nome>
+    <DDD1>12</DDD1>
+    <Numero1>9999-9999</Numero1>
+    <Tipo1>Empresa</Tipo1>
+    <Observacao1>
+    </Observacao1>
+    <DDD2>
+    </DDD2>
+    <Numero2>
+    </Numero2>
+    <Tipo2>
+    </Tipo2>
+    <Observacao2>
+    </Observacao2>
+    <DDD3>
+    </DDD3>
+    <Numero3>
+    </Numero3>
+    <Tipo3>
+    </Tipo3>
+    <Observacao3>
+    </Observacao3>
+    <DDD4>
+    </DDD4>
+    <Numero4>
+    </Numero4>
+    <Tipo4>
+    </Tipo4>
+    <Observacao4>
+    </Observacao4>
+  </Pessoa>
+</Pessoas>
